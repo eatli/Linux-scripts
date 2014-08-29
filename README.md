@@ -1,2 +1,5 @@
 Linux-scripts
 =============
+
+
+My ./bashrc 
